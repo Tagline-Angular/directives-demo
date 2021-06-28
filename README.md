@@ -1,11 +1,17 @@
+# This demo demonstrate the use of directives in angular.
+
+# Covered topics:
+    1. ngIf
+    2. ngFor
+    3. ngSwitch
+    4. ngClass
+    5. ngStyle
+    6. ngModel
+    7. Custom directive to open and close dropdown box
+        - with the use of HostBinding, HostListener and Renderer2
+
 # use of ngNonBindable
 It is built-in directive and will not evaluate any expression given between '{{}}' in html code.
-
-
-
-
-
-
 
 # DirectiveDemo
 
